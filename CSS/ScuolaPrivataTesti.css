@@ -1,0 +1,60 @@
+#ministero{
+    background-color: #7a2602;
+    padding: 1px 15%;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#nomeScuola{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    color: #7a2602;
+    font-size: 19pt;
+    margin-left: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+
+#home{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ce1b38;
+}
+
+#menu1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #c9009d;
+}
+
+#menu2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1aa343;
+}
+
+#menu3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #110bb8;
+}
+
+#diritti{
+    font-size: 10pt;
+    color: #ffffff;
+    text-align: center;
+    font-size: 11pt;
+    border-top: 1px solid #c8c8c8;
+    border-bottom: 1px solid #c8c8c8;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 9px 0px;
+}
+
+a {
+    font-weight: 500;
+    text-decoration: none;
+    display: flex;
+    font-size: 15pt;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+}

@@ -1,0 +1,21 @@
+.motto{
+    display: flex;
+    background-image: url(../Multimedia/Immagini/O5NY920.jpg);
+    align-items: center;
+    justify-content: center;
+}
+
+#frase{
+    font-family:  Verdana, sans-serif;
+    font-size: 25pt;
+    margin: 0% 3%;
+    text-align: center;
+    color: #ffffff;
+}
+
+#scuolaFoto{
+    display: flex;
+    align-content: end;
+    justify-content: end;
+    height: 450px;
+}
